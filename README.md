@@ -142,7 +142,7 @@
 - پس از استقرار، دامنه Worker خود را دریافت خواهید کرد (مثلاً `myserver.workers.dev`).
 
 ### نصب روی VPS شخصی
-اسکریپت نصب یک‌خطی برای اوبونتو/دبیان:
+اسکریپت نصب یک‌خطی برای اوبونتو/دبیان--:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/IRNova/Nova-Proxy-App/main/sni-server/install.sh | sudo bash
